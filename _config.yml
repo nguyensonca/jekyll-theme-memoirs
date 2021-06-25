@@ -17,7 +17,7 @@ email: cts@cementtile.vn
 authors:
   sal:
     name: David Nguyen
-    display_name: David
+    display_name: David Nguyen
     avatar: 'assets/images/avatar-sal.png'
     email: cans@cementtile.vn
     web: https://cementtiles.vn
@@ -25,7 +25,7 @@ authors:
     description: "Gạch bông gió chống mưa là loại gạch bông gió chống hắt mưa nhưng vẫn đảm bảo thông gió lấy sáng!"
   john:
     name: Nguyen Ca
-    display_name: Nguyen    
+    display_name: Nguyen Ca  
     avatar: 'assets/images/avatar.png'
     email: cts@cementtile.vn
     web: https://nguyensoncavn.com
@@ -44,8 +44,8 @@ plugins:
     
 # Archives
 jekyll-archives:
-  enabled:
-    - categories
+  enabled: all
+   # - categories
   layout: archive
   permalinks:
     category: '/category/:name/'
