@@ -3,7 +3,9 @@ title: Gạch bông cầu thang đẹp
 layout: post
 date: '2021-06-24 23:18:22'
 image: assets/images/z2371909742514_439de63a57acef058f6b5b0a95a1ebf2.jpg
-categories: []
+categories:
+- gạch_bông
+- gachbong
 tags:
 - gạch_bông
 - Gạch_hoa

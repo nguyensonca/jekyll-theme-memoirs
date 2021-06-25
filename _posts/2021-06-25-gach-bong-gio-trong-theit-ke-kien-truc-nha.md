@@ -1,10 +1,12 @@
 ---
 title: Gạch bông gió trong thiết kế kiến trúc nhà ở
 layout: post
-author: David
+author: David Nguyen
 categories:
-- Travel
+- gachbonggio
+- gạch_bông_gió
 image: assets/images/Encaustic-Cement-Tiles-CTS-(1365).jpg
+rating: 5
 ---
 
 Bức tường nhà bạn quá nhàm chán, không có bất cứ điểm nhấn thú vị nào. Bạn mong muốn một không gian độc đáo hơn, ánh sáng tự nhiên từ ngoài trời. Vậy thì xây một bức tường với gạch bông gió sẽ là lựa chọn tuyệt vời và thông minh.

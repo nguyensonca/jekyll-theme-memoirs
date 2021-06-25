@@ -2,7 +2,8 @@
 title: Gạch bông gió chống mưa
 layout: post
 author: sonca
-categories: []
+categories:
+- gachbonggio
 tags:
 - bông_gió
 - gạch_bông_gió
