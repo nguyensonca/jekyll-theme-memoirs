@@ -1,7 +1,7 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
+name: "David Nguyen"
+title: "Gạch Bông Gió Chống Mưa Blog"
+description: "Gạch bông gió chống mưa là loại gạch bông gió chống hắt mưa nhưng vẫn đảm bảo thông gió lấy sáng!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
@@ -11,26 +11,26 @@ disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
-email: wowthemesnet@gmail.com
+email: cts@cementtile.vn
 
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: David Nguyen
+    display_name: David
     avatar: 'assets/images/avatar-sal.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net/donate/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Memoirs, a Bootstrap Medium styled template available for Jekyll. You are currently previewing Jekyll template demo."
+    email: cans@cementtile.vn
+    web: https://cementtiles.vn
+    twitter: https://twitter.com/vietnamtiles
+    description: "Gạch bông gió chống mưa là loại gạch bông gió chống hắt mưa nhưng vẫn đảm bảo thông gió lấy sáng!"
   john:
-    name: John
-    display_name: John    
+    name: Nguyen Ca
+    display_name: Nguyen    
     avatar: 'assets/images/avatar.png'
-    email: wowthemesnet@gmail.com
-    web: https://www.wowthemes.net
-    twitter: https://twitter.com/wowthemesnet
-    description: "Write a short description of the author here. You are currently previewing Memoirs demo, a Jekyll template compatible with Github pages."
+    email: cts@cementtile.vn
+    web: https://nguyensoncavn.com
+    twitter: https://twitter.com/cementtilevn
+    description: "Gạch bông gió chống mưa là loại gạch bông gió chống hắt mưa nhưng vẫn đảm bảo thông gió lấy sáng!"
 
 # Plugins
 plugins:

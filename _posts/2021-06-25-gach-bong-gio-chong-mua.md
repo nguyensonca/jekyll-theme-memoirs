@@ -1,7 +1,7 @@
 ---
 title: Gạch bông gió chống mưa
 layout: post
-author: sal
+author: sonca
 categories: []
 tags:
 - bông_gió
@@ -9,8 +9,6 @@ tags:
 image: assets/images/2.jpg
 rating: 4.5
 ---
-
-### Gạch bông gió chống mưa là gì ?
 
 Gạch thông gió chắn mưa là loại gạch thông gió có chức năng chống hắt mưa. Cũng như giúp thông gió, lấy sáng. Tạo không khí trong lành mát mẻ cho ngôi nhà. Đặc biệt với khí hậu nóng ẩm như tại Việt Nam thì sản phẩm gạch bông gió chắn mưa sẽ giúp cho mỗi công trình tạo nên một sức sống hòa cùng thiên nhiên. Khí hậu nhiệt đới gió mùa tại Việt Nam với thời gian mưa rất dài thì sản phẩm này hỗ trợ tốt cho việc chống mưa nhưng vẫn giữ được chức năng thông gió & giảm nhiệt tốt khi trời nắng.
 
