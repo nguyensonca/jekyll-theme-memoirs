@@ -9,11 +9,10 @@ tags:
 - bông_gió
 - gạch_bông_gió
 image: http://cementtile.vn/wp-content/uploads/2021/06/xLan-can-gach-bong-gio-3-6.jpg.pagespeed.ic.5CaHE3gzkh.webp
+rating: 5
 ---
 
-### Lan can gạch bông gió đẹp có phải là xu hướng thiết kế mới ?
-
-Nói đến thiết kế ngoại thất thì khu vực ban công hay hành lang là điểm trọng yếu của mỗi ngôi nhà. Hành lang hay ban công là khu vực dành cho những giây phút thư giãn của chủ nhà sau ngày làm việc mệt mỏi. Và mỗi hành lang hay ban công nhà đều có những đặc điểm khác nhau.
+Lan can gạch bông gió đẹp có phải là xu hướng thiết kế mới ?  Nói đến thiết kế ngoại thất thì khu vực ban công hay hành lang là điểm trọng yếu của mỗi ngôi nhà. Hành lang hay ban công là khu vực dành cho những giây phút thư giãn của chủ nhà sau ngày làm việc mệt mỏi. Và mỗi hành lang hay ban công nhà đều có những đặc điểm khác nhau.
 
 Qua con mắt của kiến trúc sư, hành lang cần phải có những điểm nhấn đặc biệt. Nơi đó có thể có những chậu hoa, những thảm gạch, có xích đu thư giãn & đặc biệt là góc lan can nhìn ra không gian bên ngoài. Với thiết kế lan can thì sử dụng bông gió để tạo nên những nét độc đáo dựa vào những vẽ đẹp tự nhiên mà các hoa văn bông gió mang lại. Lan can gạch bông gió đẹp sẽ quyết định nét đẹp chung cho cả khu vực ban công hay hành lang.
 
